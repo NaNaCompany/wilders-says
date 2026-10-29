@@ -1,0 +1,236 @@
+{
+  "slug": "wilders-says",
+  "captured_at": "2026-10-28T23:51:54.990547+00:00",
+  "coverage": "partial",
+  "records": 302,
+  "first": "2026-06-18",
+  "last": "2026-10-28",
+  "exact_time": 302,
+  "sources": [
+    {
+      "id": "nitter-public-timeline",
+      "url": "https://nitter.jaydenha.uk/geertwilderspvv/with_replies",
+      "creator": "Nitter public timeline (original X account linked for every record)",
+      "redistributed_fields": [
+        "post_id",
+        "author",
+        "ID-derived timestamp",
+        "original_permalink",
+        "post_kind"
+      ],
+      "body_rights": "Not established; all scraped bodies, media, translations and third-party summaries excluded"
+    }
+  ],
+  "failures": [],
+  "collection_limit_pages": 20,
+  "pages": [
+    {
+      "url": "https://nitter.jaydenha.uk/geertwilderspvv/with_replies",
+      "sha256": "e6829adf7d946cb3133456463c989eedb612c059c2f25f8fa2e83d2088e94129",
+      "timeline_items": 18,
+      "accepted": 14,
+      "excluded": {
+        "repost": 4
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/geertwilderspvv/with_replies?cursor=DAAHCgABHVwYUWL__-wLAAIAAAATMjExMzU3MDA4MTYwNzE3MjU1NAgAAwAAAAIAAA",
+      "sha256": "e48389ad54eb2679d8abdbb9976571049495db11a188800ebd6fd6847541e572",
+      "timeline_items": 19,
+      "accepted": 15,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/geertwilderspvv/with_replies?cursor=DAAHCgABHVwYUWL__9gLAAIAAAATMjExMTA0OTc4MDMzNjIzMDQxMAgAAwAAAAIAAA",
+      "sha256": "8544c4c8398e99bd155758681a4ad64eb543de3ac48653b20bb18f186625bf47",
+      "timeline_items": 21,
+      "accepted": 17,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/geertwilderspvv/with_replies?cursor=DAAHCgABHVwYUWL__8MLAAIAAAATMjEwODc5NjgzMjgwNTQyOTY3NQgAAwAAAAIAAA",
+      "sha256": "089e174ea479e797d5bae80d761afd8c57093fc3dbb7042dbb45429bab756661",
+      "timeline_items": 21,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/geertwilderspvv/with_replies?cursor=DAAHCgABHVwYUWL__64LAAIAAAATMjEwNjA5Mjg1MzgzOTQ5NTU4NwgAAwAAAAIAAA",
+      "sha256": "0f7d38632726dd31bd24f0a2d497c80bcba4d9fb6071fe434a9278904273920f",
+      "timeline_items": 21,
+      "accepted": 16,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 4
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/geertwilderspvv/with_replies?cursor=DAAHCgABHVwYUWL__5kLAAIAAAATMjEwNDgxMzUzNTk2MDM5NjAxMQgAAwAAAAIAAA",
+      "sha256": "0f692bcd2c184e8c6c716b424e6e85556a3ed2313f3914347785897709c60e24",
+      "timeline_items": 20,
+      "accepted": 17,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 2
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/geertwilderspvv/with_replies?cursor=DAAHCgABHVwYUWL__4ULAAIAAAATMjEwMTc0MTM1ODQyMzcwODAyMggAAwAAAAIAAA",
+      "sha256": "8f99f269920295de868c2bbc589f6a4f829bdd1b0029631dac8993b2742200be",
+      "timeline_items": 21,
+      "accepted": 13,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 7
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/geertwilderspvv/with_replies?cursor=DAAHCgABHVwYUWL__3ALAAIAAAATMjEwMDIxMzcxMDAxODk2OTk5NwgAAwAAAAIAAA",
+      "sha256": "87e84fc06c60665dfc0921dc3763b3534d2458974077f0406cfe47b6c9f076c8",
+      "timeline_items": 21,
+      "accepted": 17,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/geertwilderspvv/with_replies?cursor=DAAHCgABHVwYUWL__1sLAAIAAAATMjA5NjgxNzYzOTY4NzQzNDY3NAgAAwAAAAIAAA",
+      "sha256": "76332f2a366d6aa65b6992a2673d31c5c195023f8c3e4af094f0f3a0d28c8529",
+      "timeline_items": 20,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/geertwilderspvv/with_replies?cursor=DAAHCgABHVwYUWL__0cLAAIAAAATMjA5NDAxNzEyOTU1MzA1MTcyNQgAAwAAAAIAAA",
+      "sha256": "ee2da154181af9b4ecf338c07841c044565151e31854bedbc8f02b9d22b76834",
+      "timeline_items": 21,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 2
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/geertwilderspvv/with_replies?cursor=DAAHCgABHVwYUWL__zILAAIAAAATMjA5MDc5MjMyNDMzMDYyMzMxNggAAwAAAAIAAA",
+      "sha256": "bc20429ac6704e18ed5d183997e5091c2a1b33cca8ceb4cf3ab39877124e2b75",
+      "timeline_items": 21,
+      "accepted": 11,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 9
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/geertwilderspvv/with_replies?cursor=DAAHCgABHVwYUWL__x0LAAIAAAATMjA4Nzg1OTA1NDExNDcwNTQ3OQgAAwAAAAIAAA",
+      "sha256": "25fa52919bcd2d305a70b7941e8f011cb20665e44df73865f815b05181b36d4b",
+      "timeline_items": 20,
+      "accepted": 15,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 4
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/geertwilderspvv/with_replies?cursor=DAAHCgABHVwYUWL__wkLAAIAAAATMjA4NTMwMDQyMjI4NjE1NjAzMQgAAwAAAAIAAA",
+      "sha256": "96d97d424dd776758bdefe7463f8b43f1e229faa63cda5009002f70079aeb285",
+      "timeline_items": 20,
+      "accepted": 16,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 2,
+        "quote-without-authored-content": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/geertwilderspvv/with_replies?cursor=DAAHCgABHVwYUWL__vULAAIAAAATMjA4Mjg0MzkxNDI5ODQ0MTc0MAgAAwAAAAIAAA",
+      "sha256": "6a21b87a93e50857ded787a5bc679a387be252a76c9e170c4bcd534f7deb4775",
+      "timeline_items": 21,
+      "accepted": 14,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 6
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/geertwilderspvv/with_replies?cursor=DAAHCgABHVwYUWL__uALAAIAAAATMjA4MTU1MzQzNTI3OTY4MzYxOQgAAwAAAAIAAA",
+      "sha256": "1f80c26c123e969d7150f5157af38e75f6f0f0993a133d73956c25bb6c2fcc83",
+      "timeline_items": 20,
+      "accepted": 16,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/geertwilderspvv/with_replies?cursor=DAAHCgABHVwYUWL__swLAAIAAAATMjA3NzU5NzM0MTg5NzM2MzY0MQgAAwAAAAIAAA",
+      "sha256": "b3b7d9a9a815ebd4d469ce2869833f9ffc9768eae6882139f903ec6414622e33",
+      "timeline_items": 21,
+      "accepted": 13,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 7
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/geertwilderspvv/with_replies?cursor=DAAHCgABHVwYUWL__rcLAAIAAAATMjA3NDgwMTExMTE3Nzg2MzIxNggAAwAAAAIAAA",
+      "sha256": "f52e0a271995b27c903e8f2c34593daa21ef12d620bf33e6df9accd5390b9bf9",
+      "timeline_items": 20,
+      "accepted": 14,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 5
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/geertwilderspvv/with_replies?cursor=DAAHCgABHVwYUWL__qMLAAIAAAATMjA3MjcxMDU2MTU4MjczNTY1OQgAAwAAAAIAAA",
+      "sha256": "536b88c8ac0936ab5e1d1c13c77b886be3fda7473422c08b9bc4f8755240de9a",
+      "timeline_items": 21,
+      "accepted": 13,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 7
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/geertwilderspvv/with_replies?cursor=DAAHCgABHVwYUWL__o4LAAIAAAATMjA3MTE0NTc2OTM1NzE2ODY3MQgAAwAAAAIAAA",
+      "sha256": "ff2ec2ee4d451bfa0fdc773aafba47ec035bd0eede03b13ad8841c81fb212db3",
+      "timeline_items": 21,
+      "accepted": 11,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 9
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/geertwilderspvv/with_replies?cursor=DAAHCgABHVwYUWL__nkLAAIAAAATMjA2ODcyNTA2MjE3MDAyMTkyNwgAAwAAAAIAAA",
+      "sha256": "7887f680a2d56482667dcf17832ac7f62f66bf8ce0ff71cfd13ce046f32aa8a5",
+      "timeline_items": 21,
+      "accepted": 15,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 5
+      }
+    }
+  ],
+  "excluded": {
+    "repost": 87,
+    "missing-author-or-permalink": 19,
+    "quote-without-authored-content": 1
+  },
+  "repost_policy": "Exclude every native repost; require matching top-level permalink, username and timeline-item author. Quotes require authored content; replies are eligible. Ambiguous records excluded.",
+  "translation_policy": "No translations collected or created. Official X embed displays original content.",
+  "post_body_policy": "Only factual metadata and original permalinks are redistributed; original content is loaded through the official X embed on demand."
+}

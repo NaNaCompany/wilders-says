@@ -1,0 +1,22 @@
+{
+  "slug": "wilders-says",
+  "name": "Wilders Says",
+  "wordmark": "WILDERS",
+  "subject": "Geert Wilders",
+  "handle": "geertwilderspvv",
+  "initials": "GW",
+  "color": "#6b7959",
+  "profile": "https://x.com/geertwilderspvv",
+  "origin": "https://nanalab.kr/wilders-says",
+  "photo": null,
+  "portrait": "assets/portrait.svg",
+  "audience": "public",
+  "languages": [
+    "en"
+  ],
+  "coverage": "partial",
+  "content_mode": "official_embeds",
+  "browse_timezone": "UTC",
+  "reposts_excluded": true,
+  "translations": false
+}
